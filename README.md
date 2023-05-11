@@ -1,8 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Vitor Gabriel and my nickname is "vitorgsn"!
 
-![Snake animation](https://github.com/vitorgsn/vitorgsn/blob/output/github-contribution-grid-snake.svg)
-
 <div>
 <a href="https://github.com/vitorgsn">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgsn&layout=compact&langs_count=7&theme=dracula"/>
