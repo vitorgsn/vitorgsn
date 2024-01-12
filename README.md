@@ -1,5 +1,4 @@
 # Welcome to my Github profile!
-## My name is Vitor Gabriel.
 
 <div>
 <a href="https://github.com/vitorgsn">
